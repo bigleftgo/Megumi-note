@@ -12,4 +12,17 @@ math: true
   - PORT=8096
 - HEXO
   - PORT=9705
+- speedtest
+  - PORT=9713
+- AwTriX
+  - PORT=7000
+- Jellyfin
+  - PORT=9711
+- qbt
+  - PORT=8999
+- aria(web)
+  - PORT=6801
+- emby
+  - PORT=8096
 - 
+
