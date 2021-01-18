@@ -24,5 +24,6 @@ math: true
   - PORT=6801
 - emby
   - PORT=8096
-- 
+- calibre
+  - PORT=9723
 
